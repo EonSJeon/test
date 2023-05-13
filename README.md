@@ -4,7 +4,7 @@ About me
 
 ### Basic Information
 
-![전기및전자공학부 전상언](https://github.com/EonSJeon/test/assets/110102765/3a44ce98-799c-45b5-bb43-28dc8ee665c3){: width="30%"}
+![전기및전자공학부 전상언](https://github.com/EonSJeon/test/assets/110102765/3a44ce98-799c-45b5-bb43-28dc8ee665c3){: width="30%" height="30%"}
 
 | Attributes | Value |
 |---|---|
